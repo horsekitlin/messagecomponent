@@ -1,0 +1,21 @@
+{
+    "name": "messagecomponent",
+    "version": "1.0.6",
+    "description": "show Message Demo",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native",
+        "component"
+    ],
+    "author": "TomasLin <horsekit1982@gmail.com> (horsekitlin.github.io)",
+    "license": "MIT",
+    "repository" :
+    {
+        "type" : "git",
+        "url" : "https://github.com/npm/npm.git"
+    },
+    "dependencies": {}
+}
