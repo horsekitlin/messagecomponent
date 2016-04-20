@@ -24,7 +24,7 @@ class Message extends Component{
                             <Text style={[styles.primarytext, styles.boldertext]}> 電影法蘭克 </Text>
                         </View>
                         <View>
-                            <Text style={[styles.mutedtext, {fontSize : 10}]}>2015</Text>
+                            <Text style={[styles.mutedtext, {fontSize : 10}]}>{message.created_time}</Text>
                         </View>
                     </View>
                 </View>
