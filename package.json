@@ -1,6 +1,6 @@
 {
     "name": "messagecomponent",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "show Message Demo",
     "main": "index.js",
     "scripts": {
